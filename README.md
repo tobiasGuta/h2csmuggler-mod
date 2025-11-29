@@ -19,7 +19,7 @@ See my detailed write-up below for:
 * Insecure-by-default services
 * Remediation guidance
 
-Here: [https://labs.bishopfox.com/tech-blog/h2c-smuggling-request-smuggling-via-http/2-cleartext-h2c](https://labs.bishopfox.com/tech-blog/h2c-smuggling-request-smuggling-via-http/2-cleartext-h2c)
+Here: <img width="2794" height="2033" alt="image" src="https://github.com/user-attachments/assets/c84d96f6-60e7-4111-b242-ca50eb9d6c0a" />
 
 ### How to test?
 

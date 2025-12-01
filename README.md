@@ -2,9 +2,7 @@
 
 **A Reconnaissance Tool for detecting HTTP/2 over Cleartext (h2c) Tunneling Vulnerabilities**
 
-![Java](https://img.shields.io/badge/Java-21-orange)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Montoya%20API-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Security](https://img.shields.io/badge/Cybersecurity-Bug_Bounty-red?style=for-the-badge)
 
 ## Overview
 **H2C Prober** is a Burp Suite extension designed to detect a specific misconfiguration in reverse proxies: **Unintended h2c Upgrades**.
